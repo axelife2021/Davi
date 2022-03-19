@@ -1,4 +1,4 @@
-#Declaração da lista com valores escolhidos arbitrariamente
+#Declaração da lista já dada pelo exercício
 L= [15,7,27,39]
 #Entrada do valor que deseja procurar
 p = int(input("Digite o valor a procurar: "))
